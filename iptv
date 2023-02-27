@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
+#EXTM3U url-tvg="https://trada.info/epg.xml"
+
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png" group-title="QNET",CNA
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -10,7 +9,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="QNET",CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/551.png?rand=829" group-title="QNET",BBC World News
+#EXTINF:-1  tvg-name="BBC WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20WORLD%20NEWS.png",BBC WORLD NEWS
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978" group-title="QNET",Bloomberg TV
