@@ -1,5 +1,7 @@
-#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://trada.info/epg.xml"
 
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png" group-title="QNET",CNA
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
