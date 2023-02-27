@@ -22,7 +22,7 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://imgstatic.vtvcab.vn/logos/DW_CHANNEL_M.png" group-title="QNET",DW News
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="QNET",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhkworldhd" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="QNET",NHK WORLD JAPAN
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="QNET",Australia Plus
 https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
@@ -31,7 +31,7 @@ https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/260.png?rand=995" group-title="QNET",BBC Lifestyle
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="QNET",BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="QNET",BBC Earth HD
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/01/default.png" group-title="QNET",Love Nature HD - Eng
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -45,7 +45,8 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="PHIM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:-1 tvg-id="blueantent" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="PHIM",Blue Ant Entertainment
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png",KIX HD
