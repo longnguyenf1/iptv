@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="QNET",CNA
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="QNET",Al Jazeera English
