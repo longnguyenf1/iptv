@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
 
 
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="QNET",CNA
