@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="QNET",CNA
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/playlist.m3u8
-#EXTINF:-1 tvg-id="Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="QNET",Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="QNET",CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20WORLD%20NEWS.png" group-title="QNET",BBC WORLD NEWS
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="QNET",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978" group-title="QNET",Bloomberg TV
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="QNET",CNBC
