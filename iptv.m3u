@@ -19,7 +19,7 @@ https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://bit.ly/372FzLO" group-title="QNET",France 24
-#http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/Deutsche_Welle_2012.png" group-title="QNET",DW News
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="QNET",NHK WORLD JAPAN
