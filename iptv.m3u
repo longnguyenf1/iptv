@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml"
 
 
-#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png" group-title="QNET",CNA
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="QNET",CNA
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="QNET",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -20,7 +20,7 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://bit.ly/372FzLO" group-title="QNET",France 24
 #http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-logo="https://imgstatic.vtvcab.vn/logos/DW_CHANNEL_M.png" group-title="QNET",DW News
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/Deutsche_Welle_2012.png" group-title="QNET",DW News
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="QNET",NHK WORLD JAPAN
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
