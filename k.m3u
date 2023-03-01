@@ -1,0 +1,218 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 HD
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 HD
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4 HD
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 HD
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 HD
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8 HD
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" catchup="append" catchup-days="1" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 HD
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/37rjgv1ov8p6h1i/kplus-kcinehd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd", K+Cine HD - Nguồn Kpờlớt
+#https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/3vxfg5g1y7pjg7i/kplus-klifehd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd", K+Life HD - Nguồn Kpờlớt
+#https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/97jbs77dhfl1zgk/kplus-ksport1hd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn Kpờlớt
+#https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/noxkbopcl9xm8rc/kplus-ksport2hd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd", K+Sport2 HD - Nguồn Kpờlớt
+#https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/gdt248p4nrus9px/kplus-kkidshd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kkidshd", K+Kids HD - Nguồn Kpờlớt
+#https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/knt7maaors0vead/vnpt-kcinehd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd", K+Cine HD - Nguồn MaiTiZi
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/9o15z7co4yz5hz4/vnpt-klifehd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd", K+Life HD - Nguồn MaiTiZi
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/bjbtmwqw6te58fs/vnpt-ksport1hd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn MaiTiZi
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/49du34lnf40wws8/vnpt-ksport2hd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd", K+Sport2 HD - Nguồn MaiTiZi
+http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="antvhd", ANTV HD
+https://livecdn.fptplay.net/hda2/anninhtv_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="ttxvnhd", VNews
+https://livecdn.fptplay.net/hda2/ttxvn_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="nhandan", Nhân Dân TV
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="quochoi", Quốc Hội HD
+https://livecdn.fptplay.net/hda1/quochoivn_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="qpvnhd", QPVN HD
+https://livecdn.fptplay.net/hda1/quocphongvnhd_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Quốc Gia" tvg-id="vovtvhd", VOVTV HD
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd", VTVCab1 HD - Vie Giải Trí
+https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd", ON Phim Việt
+https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd", ON Sports HD
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/m40_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab4hd", VTVCab4 HD
+https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab5hd", VTVCab5 HD - E Channel
+https://856175157.r.vtvcdn.com/ondrm/E_CHANNEL/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab6hd", ON Sports+ HD
+https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m40_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab7hd", VTVCab7 HD
+https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab8hd", VTVCab8 - BiBi
+https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab9hd", VTVcab 9 - InfoTV
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab10hd", ON Cine
+https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab12hd", VTVCab12 - Style TV
+https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab15hd", VTVcab15
+https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd", ON Football HD
+https://856175157.r.vtvcdn.com/ondrm/BONGDA_HD/m40_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab17hd", VTVCab17 - Yeah1 TV
+https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab18hd", ON Sports News HD
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_TINTUC_HD/m40_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab19hd", VTVCab19 HD - Vie DRAMAS
+https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd", VTVCab20 - V Family
+https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd", VTVCab21 HD - BiBi+
+https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd", VTVCab22 HD - Life TV
+https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab23hd", ON Golf HD
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m40_index.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc1hd", VTC1 HD
+https://livecdn.fptplay.net/hda1/vtc1_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc2", VTC2
+https://livecdn.fptplay.net/sdb/vtc2_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc3hd", VTC3 HD
+https://livecdn.fptplay.net/hda1/vtc3hd_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc4hd", VTC4 HD
+https://livecdn.fptplay.net/hda2/vtc4_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc5hd", VTC5 HD
+https://livecdn.fptplay.net/sdb/vtc5_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc6hd", VTC6 HD
+https://livecdn.fptplay.net/sdb/vtc6_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc7hd", VTC7 HD - TodayTV
+https://livecdn.fptplay.net/sdb/todaytv_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc8", VTC8
+https://livecdn.fptplay.net/sdb/vtc8_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc9hd", VTC9 HD
+https://livecdn.fptplay.net/hda3/vtc9_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc10", VTC10 HD
+https://livecdn.fptplay.net/sdb/vtc10_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc11", VTC11
+https://livecdn.fptplay.net/sdb/vtc11_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc12", VTC12
+https://livecdn.fptplay.net/sdb/vtc12_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc13hd", VTC13 HD
+https://livecdn.fptplay.net/hda1/vtc13_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc14hd", VTC14 HD
+https://livecdn.fptplay.net/hda1/vtc14_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc16", VTC16 HD
+https://livecdn.fptplay.net/sdb/vtc16_2000.stream/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv1", HTV1 HD
+https://livecdn.fptplay.net/sdb/htv1_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv2hd", HTV2 - Vie Channel
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv3", HTV3 - Heo TV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv4", HTV Key
+https://livecdn.fptplay.net/sdb/htv4_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv7hd", HTV7 HD
+https://106a8e566.vws.vegacdn.vn/cliptv_live/amlst:htv7hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd", HTV9 HD
+https://106a8e566.vws.vegacdn.vn/cliptv_live/amlst:htv9hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd", HTV Thể Thao
+https://livecdn.fptplay.net/hda3/htvcthethao_4000.stream/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet", HTVC Thuần Việt
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd", HTVC Thuần Việt HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcgiadinhhd", HTVC Gia đình HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd", HTVC Phụ nữ HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd", HTVC Du lịch Cuộc sống HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvccanhachd", HTVC Ca nhạc HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcphimhd", HTVC Phim HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcplushd", HTVC Plus HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd", THVL1 HD
+https://livecdn.fptplay.net/hda1/vinhlong1_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong2hd", THVL2 HD
+https://livecdn.fptplay.net/hda2/vinhlong2_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong3hd", THVL3 HD
+https://livecdn.fptplay.net/hda2/vinhlong3_4000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong4hd", THVL4 HD
+https://livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
